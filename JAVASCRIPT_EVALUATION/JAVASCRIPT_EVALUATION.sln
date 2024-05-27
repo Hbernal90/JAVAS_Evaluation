@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JAVASCRIPT_EVALUATION", "JAVASCRIPT_EVALUATION.njsproj", "{DA5CC3E0-F905-4629-97B0-EFCBA044A0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5CC3E0-F905-4629-97B0-EFCBA044A0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5CC3E0-F905-4629-97B0-EFCBA044A0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5CC3E0-F905-4629-97B0-EFCBA044A0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5CC3E0-F905-4629-97B0-EFCBA044A0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA29412D-C2E2-42B5-830E-9BB98B694AA9}
+	EndGlobalSection
+EndGlobal
